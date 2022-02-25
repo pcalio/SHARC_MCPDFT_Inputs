@@ -1,0 +1,18 @@
+basis cc-pVDZ
+ras2 2
+nactel 2
+inactive 7
+roots 3  0  0 
+
+pyscf
+no-douglas-kroll
+#method CMS-PDFT
+method cmspdft
+functional TPBE
+#grid ultrafine
+
+#     Infos:
+#     pcalio@midway3-login1.rcc.local
+#     Date: 2022-01-24 15:02:35.915887
+#     Current directory: /project/lgagliardi/pcalio/CMS_Simulations/Ethylene/3_Template
+
