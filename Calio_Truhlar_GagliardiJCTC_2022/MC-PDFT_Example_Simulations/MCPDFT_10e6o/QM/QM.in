@@ -1,0 +1,18 @@
+     4
+            334624779
+S    0.3359777    0.0354220    0.5581416      -0.0000201   -0.0000027   -0.0001201
+C   -0.6853734   -0.0752010   -0.9784914       0.0001127   -0.0001897    0.0004307
+H   -1.1552760    0.7562051   -1.4759975      -0.0010481    0.0010480   -0.0010119
+H   -1.3432550   -0.9852483   -1.1456186       0.0003446    0.0012973   -0.0003060
+unit angstrom
+states   2  0  2
+dt    20.670687
+step    1000
+savedir /project/lgagliardi/pcalio/Thioformaldehyde/MCPDFT/10e_6o/6_Simulations_Init/2/restart
+SOC
+DM
+GRAD all
+OVERLAP
+PHASES
+NACDR
+
