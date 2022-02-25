@@ -1,0 +1,11 @@
+basis cc-pVDZ
+ras2 4
+nactel 4
+inactive 6
+roots 3  0  2 
+
+method CMS-PDFT
+functional T:PBE
+grid ultrafine
+
+
