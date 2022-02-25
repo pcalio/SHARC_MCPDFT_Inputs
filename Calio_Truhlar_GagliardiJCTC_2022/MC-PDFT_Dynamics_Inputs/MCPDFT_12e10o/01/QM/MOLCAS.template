@@ -1,0 +1,11 @@
+basis cc-pVDZ
+ras2 10
+nactel 12
+inactive 6
+roots 2  0  2 
+
+method MCPDFT
+functional TPBE
+
+
+

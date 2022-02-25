@@ -1,0 +1,5 @@
+molcas $MOLCAS
+scratchdir $SLURM_TMPDIR
+memory 1000
+ncpu 6
+project MOLCAS
