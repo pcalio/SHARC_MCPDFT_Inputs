@@ -1,1 +1,1 @@
-
+parse_log_restart.py is used in directory 04 to convert the log file into a log file format that SHARC can analysis to obtain meaningful results.
