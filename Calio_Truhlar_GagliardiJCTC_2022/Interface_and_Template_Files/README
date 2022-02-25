@@ -3,3 +3,5 @@ These are the SHARC_MOLCAS input files for
 Nonadiabatic Molecular Dynamics by Multiconfiguration Pair-Density Functional Theory
 Paul B. Calio, Donald G. Truhlar*, and Laura Gagliardi*
 J. Chem. Theory Comput. 2022, 18, 2, 614–622
+
+SHARC_MOLCAS_FINE.py and SHARC_MOLCAS_COARSE.py were created after the paper to account for the quadrature used in the MC-PDFT calculation. In the next version, defining the quadrature becomes a variable int he MOLCAS.template file.
